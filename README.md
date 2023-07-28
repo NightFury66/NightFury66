@@ -18,17 +18,3 @@ I am a self-taught full stack developer with experience in creating responsive a
 <div>
   <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,scss,js,nodejs,express,postman,mongodb,git,github,react,next,ts,tailwind,cloudflare,vercel&perline=9" alt="Technologies and Tools I use" />
 </div>
-
-#
-
-### 💬 Socials
-
-###<div>
-###  <a href="https://discord.underctrl.io" target="_blank">
-###    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" ###alt="Discord"  />
-###  </a>
-###</div>
-
-#
-
-
