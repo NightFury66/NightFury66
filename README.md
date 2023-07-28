@@ -15,6 +15,11 @@ Soon !
 
 ### 🛠️ Technologies and Tools
 
+
 <div>
-  <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,scss,js,nodejs,express,postman,mongodb,git,github,react,next,ts,tailwind,cloudflare,vercel&perline=9" alt="Technologies and Tools I use" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,scss,js,nodejs,express,postman,mongodb,git,github,react,next,ts,tailwind,cloudflare,vercel&perline=9" alt="Technologies and Tools I use" />
+  </a>
+</p>
 </div>
