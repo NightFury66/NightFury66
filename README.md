@@ -18,7 +18,7 @@ Soon !
 
 <div>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/NightFury66">
     <img src="https://skillicons.dev/icons?i=discord,bots,vscode,html,css,bootstrap,js,nodejs,express,postman,mongodb,git,github,gitlab,react,next,netlify,tailwind,ps,replit,wordpress&perline=7" alt="Technologies and Tools I use" />
   </a>
 </p>
