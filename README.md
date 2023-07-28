@@ -4,7 +4,7 @@
 
 Soon !
 
-<p align="left"> 
+<p align="center"> 
       <a href="https://github.com/NightFury66?tab=followers">
          <img alt="followers" title="Follow me" src="https://custom-icon-badges.demolab.com/github/followers/NightFury66?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/NightFury66?tab=repositories&sort=stargazers">
