@@ -19,7 +19,7 @@ Soon !
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,js,nodejs,express,postman,mongodb,git,github,react,next,tailwind&perline=9" alt="Technologies and Tools I use" />
+    <img src="https://skillicons.dev/icons?i=discord,bots,vscode,html,css,bootstrap,js,nodejs,express,postman,mongodb,git,github,gitlab,react,next,netlify,tailwind,ps,replit,wordpress&perline=9" alt="Technologies and Tools I use" />
   </a>
 </p>
 </div>
