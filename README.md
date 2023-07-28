@@ -1,8 +1,8 @@
-# Under Ctrl
+# Night Fury
 
-**`Fullstack Developer and Creator`**
+**`Front end Developer and Creator`**
 
-I am a self-taught full stack developer with experience in creating responsive and dynamic web applications. I also run a YouTube channel called [Under Ctrl](https://youtube.com/@UnderCtrl) where I create content related to web development. I'm always looking for new and exciting projects to work on!
+Soon !
 
 <p align="left"> 
       <a href="https://github.com/NightFury66?tab=followers">
